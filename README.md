@@ -1,3 +1,3 @@
 # investor
 
-it just foe test!!
+it just fo test!!
